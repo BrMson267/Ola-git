@@ -1,2 +1,2 @@
 # Olá, git
- Meu primeiro repositório do curso git e github
+ Meu primeiro repositório do curso git e github!
